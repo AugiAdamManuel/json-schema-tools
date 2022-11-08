@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "json-schema-ref-parser": "^3.0.2",
-    "loader-utils": "^1.1.0"
+    "loader-utils": "^1.4.1"
   },
   "devDependencies": {
     "jest": "^20.0.4"
