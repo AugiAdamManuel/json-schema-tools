@@ -19,7 +19,7 @@
     "build"
   ],
   "dependencies": {
-    "immutable": "^3.8.1",
+    "immutable": "^5.1.5",
     "react": "^15.2.0",
     "react-dom": "^15.2.0",
     "react-immutable-proptypes": "^1.7.1",
